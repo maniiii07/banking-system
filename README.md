@@ -48,3 +48,6 @@ Note: Every user needs to sign in to access the system. All the data must be sto
 
 👉 There is also a simple security verification in this system where the customer/admin is asked to enter a password and user id.
 👉 Suppose the user id/password is not the same as the database (txt file), the system will ask the user to enter the user id/password again until it is correct.
+
+
+
