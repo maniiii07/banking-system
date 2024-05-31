@@ -35,6 +35,7 @@ Note: Every user needs to sign in to access the system. All the data must be sto
 👉 In this online banking system, there are 11 different menus, namely:
 
 1.Main Menu
+
 2.Admin
 
    -->Admin Login
@@ -46,6 +47,7 @@ Note: Every user needs to sign in to access the system. All the data must be sto
    -->Admin Search Customer Data
    
    -->Admin Search Customer Transaction
+
 3.Customer
 
    -->Customer Login
@@ -57,6 +59,7 @@ Note: Every user needs to sign in to access the system. All the data must be sto
    -->Customer Withdraw
    
    -->Customer View
+
 👉 All the psudeocode for each menu are available here
 👉 All the flowchart for each menu are available here
 
