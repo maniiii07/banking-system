@@ -36,16 +36,26 @@ Note: Every user needs to sign in to access the system. All the data must be sto
 
 1.Main Menu
 2.Admin
+
    -->Admin Login
+   
    -->Admin Menu
+   
    -->Admin New Profile
+   
    -->Admin Search Customer Data
+   
    -->Admin Search Customer Transaction
 3.Customer
+
    -->Customer Login
+   
    -->Customer Menu 
+   
    -->Customer Deposit
+   
    -->Customer Withdraw
+   
    -->Customer View
 👉 All the psudeocode for each menu are available here
 👉 All the flowchart for each menu are available here
